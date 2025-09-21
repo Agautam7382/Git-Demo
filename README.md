@@ -1,4 +1,4 @@
 # Git-Demo
 
-My name is Aditya Gautam 
+My name is Aditya Gautam. 
 I am Student of CSE branch
